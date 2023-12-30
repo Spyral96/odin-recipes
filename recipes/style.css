@@ -1,0 +1,36 @@
+h1, h2 {
+    text-align: center;
+    text-decoration:underline;
+    margin-bottom: 60px;
+    margin-top: 60;
+
+}
+
+body {
+    background-color: black;
+
+}
+
+* {
+    color: white;
+    font-family: "Arial", sans-serif;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+li {
+    margin: 15px;
+}
