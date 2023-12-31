@@ -28,9 +28,32 @@ a:hover {
 
 a {
     text-decoration: none;
+    
 
 }
 
+.recipe-links{
+    display: inline;
+    background-color: rgba(6, 34, 42, 0.722);
+    padding: 25px;
+    border-radius: 10px;
+    
+}
+
+.ingred, .directions,.description{
+    background-color: rgba(41, 41, 41, 0.585);
+    padding: 30px;
+    margin: 40px;
+    border-radius: 10px;
+}
 li {
     margin: 15px;
+}
+
+.description {
+    line-height: 1.75;
+
+}
+h3 {
+    margin-left:40px;
 }
